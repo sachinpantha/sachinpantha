@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sachin Pantha</h1>
 <h3 align="center">An IT undergrad, who loves to explore technology.</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/BlLTqa4oYJFa8sOr8W2Vp6yNi46S7PcokeypZxvzGdQ/rs:fit:480:270:1/g:ce/aHR0cHM6Ly9tZWRp/YS5naXBoeS5jb20v/bWVkaWEvM292OWpO/emlGVE1melN1bUF3/L2dpcGh5LmdpZg.gif"/>
-- 🌱 I’m currently learning **MERN Stack and Cloud Computing**
+- 🌱 I’m currently learning **Roots of MERN Stack**
 
-- 📫 How to reach me **sachinpantha01@gmail.com**
+- 📫 How to reach me **sachinpantha69@gmail.com**
 
 - ⚡ Fun fact **I can center a div.**
 
