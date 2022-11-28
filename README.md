@@ -24,7 +24,7 @@
 
 <div align="center">  
       
-![snake gif](https://github.com/sachinpantha/sachinpantha/blob/output/github-contribution-grid-snake.gif)
+![Ohhh Here Might be snake.](https://github.com/sachinpantha/sachinpantha/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
