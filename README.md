@@ -6,7 +6,9 @@
 - 📫 How to reach me **sachinpantha69@gmail.com**
 
 - ⚡ Fun fact **I can center a div.**
-
+<p align="center">
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=sachinpantha"></a>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/sachin.nihc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sachin.nihc" height="30" width="40" /></a>
