@@ -2,7 +2,7 @@
 <img src="https://imgs.search.brave.com/KlzxR3ptweQEnVCpa4aG69XaPkGBDvdp8zUB_kbGtcU/rs:fit:749:421:1/g:ce/aHR0cHM6Ly9teW1v/ZGVybm1ldC5jb20v/d3Avd3AtY29udGVu/dC91cGxvYWRzLzIw/MTkvMTAvbmFzYS1i/bGFjay1ob2xlLXZp/c3VhbGl6YXRpb24t/MS5naWY.gif" width="100%" height="100%">
 <h1 align="center">Hi 👋, I'm Sachin Pantha</h1>
 <h3 align="center">An IT undergrad, who loves to explore technology.</h3>
-<img align="right" alt="Coding" width="400" border-radius="100%" src="https://imgs.search.brave.com/BlLTqa4oYJFa8sOr8W2Vp6yNi46S7PcokeypZxvzGdQ/rs:fit:480:270:1/g:ce/aHR0cHM6Ly9tZWRp/YS5naXBoeS5jb20v/bWVkaWEvM292OWpO/emlGVE1melN1bUF3/L2dpcGh5LmdpZg.gif"/>
+<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/BlLTqa4oYJFa8sOr8W2Vp6yNi46S7PcokeypZxvzGdQ/rs:fit:480:270:1/g:ce/aHR0cHM6Ly9tZWRp/YS5naXBoeS5jb20v/bWVkaWEvM292OWpO/emlGVE1melN1bUF3/L2dpcGh5LmdpZg.gif"/>
 - 🌱 I’m currently learning **Roots of MERN Stack**
 
 - 📫 How to reach me **sachinpantha69@gmail.com**
