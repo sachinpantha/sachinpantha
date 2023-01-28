@@ -1,7 +1,7 @@
 <!-- <img src="https://raw.githubusercontent.com/samyk/samyk/main/.../c.svg" width="100%" height="100%"> -->
 <img src="https://media.tenor.com/Pt3WqGJBXLUAAAAd/blackhole-space.gif" width="100%" height="100%">
 <h1 align="center">Hi 👋, I'm Sachin Pantha</h1>
-<h3 align="center">An IT undergrad, who loves to explore technology.</h3>
+<h3 align="center">An IT undergrad, who loves to explore technology and study Astronomical Science</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/BlLTqa4oYJFa8sOr8W2Vp6yNi46S7PcokeypZxvzGdQ/rs:fit:480:270:1/g:ce/aHR0cHM6Ly9tZWRp/YS5naXBoeS5jb20v/bWVkaWEvM292OWpO/emlGVE1melN1bUF3/L2dpcGh5LmdpZg.gif"/>
 - 🌱 I’m currently learning **Roots of MERN Stack**
 
