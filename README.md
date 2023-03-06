@@ -19,8 +19,8 @@
 
 <h2>Checkout some of my accomplished projects</h2>
 
-<a href="https://github.com/sachinpantha/ParyatanNepal"><img src="img/logo.png" width="100"></a>
-<a href="https://github.com/sachinpantha/CSITABMC"><img src="img/CSIT.png" width="100"></a>
+<a href="https://github.com/sachinpantha/ParyatanNepal"><img src="img/logo.png" width="100" border-radius="100%"></a>
+<a href="https://github.com/sachinpantha/CSITA-BMC-Website"><img src="img/CSIT.png" width="100"></a>
 
 <div align="center">  
       
