@@ -20,7 +20,7 @@
 
 <a href="https://github.com/sachinpantha/ParyatanNepal"><img src="img/logo.png" width="100" border-radius="100%"></a>
 <a href="https://www.csitabmc.com" target="_blank"><img src="img/CSIT.png" width="100"></a>
-<h2>Badges of Hacktoberfest 2023/h2>
+<h2>Badges of Hacktoberfest 2023</h2>
 <div align="center">  
       
 [![@sachinpantha's Holopin board](https://holopin.io/api/user/board?user=sachinpantha)](https://holopin.io/@sachinpantha)
