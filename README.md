@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://fb.com/sachin.nihc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sachin.nihc" height="30" width="40" /></a>
 <a href="https://instagram.com/thesachin_nihc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thesachin_nihc" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/whoisssachinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="thesachin_nihc" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/whoisssachinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="whoisssachinn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"><i>Languages and Tools:</i></h3>
