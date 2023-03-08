@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Pantha</h1>
 <h3 align="center">An IT undergrad, who loves to explore <i>technology</i> and study <i>Astronomical Science</i></h3>
 <img align="right" alt="Coding" width="300" src="https://imgs.search.brave.com/0TqoaEcNSzuGYxPI378fqW188qvoC5XzgZhny2pMUlE/rs:fit:640:480:1/g:ce/aHR0cHM6Ly9jLnRl/bm9yLmNvbS9RV2RQ/bmdwSHhaOEFBQUFk/L2ZhbWlseS1ndXkt/Y3NzLmdpZg.gif"/>
-- 🌱 I’m currently learning **Roots of MERN Stack**
+- 🌱 I’m currently learning MERN Stack, Cloud and WEB3
 
 - 📫 How to reach me **sachinpantha69@gmail.com**
 
