@@ -1,7 +1,7 @@
 <!-- <img src="https://raw.githubusercontent.com/samyk/samyk/main/.../c.svg" width="100%" height="100%"> -->
 <h1 align="center">Hi 👋, I'm Sachin Pantha</h1>
 <h3 align="center">A CS/IT undergrad, who loves to explore <i>technology</i> and study <i>Astronomical Science</i></h3>
-<img align="right" alt="Coding" width="300" src="https://imgs.search.brave.com/lXtsdxNM43vaokTiqH4mGi-XR5NMOZxQ2Hwd3M_Qbls/rs:fit:476:480:1/g:ce/aHR0cHM6Ly9tZWRp/YS5naXBoeS5jb20v/bWVkaWEvaFl1em9x/Q1FNRDVwbS9naXBo/eS5naWY.gif"/>
+<img align="right" alt="Coding" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fztlawton.tumblr.com%2Fpost%2F654351875150413824%2Fthe-mandelbrot-set&psig=AOvVaw3875wnkegKOwctdsrtfD1L&ust=1683438821967000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjioM-A4P4CFQAAAAAdAAAAABAR"/>
 - 🌱 I’m currently learning MERN Stack, Cloud and Web3
 
 - 📫 How to reach me **sachinpantha69@gmail.com**
