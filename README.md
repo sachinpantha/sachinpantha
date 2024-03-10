@@ -1,16 +1,16 @@
 <!-- <img src="https://raw.githubusercontent.com/samyk/samyk/main/.../c.svg" width="100%" height="100%"> -->
 <h1 align="center">Hi 👋, I'm Sachin Pantha</h1>
-<h3 align="center">A CS/IT undergrad, who loves to explore <i>technology</i> and study <i>Astronomical Science</i></h3>
+<h3 align="center">A CS/IT undergrad, who loves to explore <i>technology</i> and study <i>Astrophysics</i></h3>
 <img align="right" alt="Coding" width="300" src="https://www.rand-on.com/projects/2016_mandelbrot/mandelbrot.gif"/>
-- 🌱 I’m currently learning MERN Stack, Cloud and Web3
+- 🌱 I’m currently exploring Ethereum Blockchain, UI/UX & Tech Strategy
 
 - 📫 How to reach me **sachinpantha69@gmail.com**
 
-- ⚡ Fun fact **I can center a div.**
+- ⚡ Fun fact **My desktop wallpaper is the SHA256 address of first contract i deployed in Goerli testnet.**
 <h3 align="left"><i>Connect with me:</i></h3>
 <p align="left">
 <a href="https://fb.com/sachin.nihc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sachin.nihc" height="30" width="40" /></a>
-<a href="https://instagram.com/thesachin_nihc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thesachin_nihc" height="30" width="40" /></a>
+<a href="https://instagram.com/thesachin_nihc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whoisssachinn" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/whoisssachinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="whoisssachinn" height="30" width="40" /></a>
 </p>
 
