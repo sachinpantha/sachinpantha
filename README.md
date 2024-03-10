@@ -1,6 +1,6 @@
 <!-- <img src="https://raw.githubusercontent.com/samyk/samyk/main/.../c.svg" width="100%" height="100%"> -->
 <h1 align="center">Hi, I'm Sachin Pantha</h1>
-<h3 align="center">An IT undergrad from <a href="https://en.wikipedia.org/wiki/Nepal">land of Himalayas</a> who loves to explore <i>Technology</i>, Design <i>User Interfaces</i> and study <i>Astrophysics</i></h3>
+<h3 align="center">An IT undergrad from <a href="https://en.wikipedia.org/wiki/Nepal" target="_blank">Land of Himalayas</a> who loves to explore <i>Technology</i>, Design <i>User Interfaces</i> and study <i>Astrophysics</i></h3>
 <img align="right" alt="Coding" width="300" src="https://www.rand-on.com/projects/2016_mandelbrot/mandelbrot.gif"/>
 - 🌱 I’m currently exploring Ethereum Blockchain, UI/UX & Tech Strategy
 
