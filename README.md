@@ -10,7 +10,7 @@
 <h3 align="left"><i>Connect with me:</i></h3>
 <p align="left">
 <a href="https://fb.com/sachin.nihc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sachin.nihc" height="30" width="40" /></a>
-<a href="https://instagram.com/thesachin_nihc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whoisssachinn" height="30" width="40" /></a>
+<a href="https://instagram.com/whoisssachinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whoisssachinn" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/whoisssachinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="whoisssachinn" height="30" width="40" /></a>
 </p>
 
